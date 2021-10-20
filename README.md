@@ -133,3 +133,5 @@ D  DELETE  /widgets/:id
 
 ---
 * [Notes](https://github.com/clopez11/LHL-WebFlex-Lecture-W14)
+* [Slides](https://github.com/clopez11/LHL-WebFlex-Lecture-W14/blob/master/slides/MidtermProjectKickoff.pdf)
+* [Project Setup](https://github.com/clopez11/LHL-WebFlex-Lecture-W14/tree/master/midterm-july19-demo)
