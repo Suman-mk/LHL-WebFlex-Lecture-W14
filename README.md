@@ -2,10 +2,10 @@
 Thanks for your questions, participation and patience, as always. Here are your notes. Have Fun!
 
 ### Content:
-  - [ ] Slides
-  - [ ] Break: 15 minutes
-  - [ ] Demo: Project Setup
-  - [ ] Demo: Login Routes (Advanced) * if time permits
+  - [X] Slides
+  - [X] Break: 15 minutes
+  - [X] Demo: Project Setup
+  - [X] Demo: Login Routes (Advanced) * if time permits
 
 ---
 ### Stack:
@@ -124,12 +124,11 @@ D  DELETE  /widgets/:id
 
 ---
 ### Resources
+* https://github.com/clopez11/LHL-WebFlex-Lecture-W14/blob/master/project-setup/4-tools.md
 * https://trello.com/b/nvoX2IEi/midterms-demo
+* https://getbootstrap.com
+* https://www.bootstrapcdn.com
 * https://www.draw.io
-* https://db-engines.com/en/ranking
-* https://sql-joins.leopard.in.ua
-* https://sqlbolt.com/lesson/select_queries_order_of_execution
 
 ---
-
-* [Notes](https://github.com/clopez11/LHL-WebFlex-Lecture-W11/blob/main/README.md)
+* [Notes](https://github.com/clopez11/LHL-WebFlex-Lecture-W14)
