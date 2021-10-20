@@ -5,7 +5,8 @@ Thanks for your questions, participation and patience, as always. Here are your 
   - [X] Slides
   - [X] Break: 15 minutes
   - [X] Demo: Project Setup
-  - [X] Demo: Login Routes (Advanced) * if time permits
+  - [X] Demo: Login Routes (Advanced)
+    - check `routes/users.js` for joining tables since we didn't get to go over. 
 
 ---
 ### Stack:
